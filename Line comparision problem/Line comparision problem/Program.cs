@@ -40,10 +40,14 @@ namespace Line_comparision_problem
             {
                 Console.WriteLine("both lines are equal");
             }
+            else if (array[0]>array[1])
+            {
+                Console.WriteLine("line 0 is greater ");
+
+            }
             else
             {
-                Console.WriteLine("both lines are  not equal");
-
+                Console.WriteLine("line 1 is greater");
             }
         }
     }
