@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\bin\Debug\netcoreapp3.1\Line comparision problem.exe
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\bin\Debug\netcoreapp3.1\Line comparision problem.deps.json
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\bin\Debug\netcoreapp3.1\Line comparision problem.runtimeconfig.json
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\bin\Debug\netcoreapp3.1\Line comparision problem.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\bin\Debug\netcoreapp3.1\Line comparision problem.dll
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\bin\Debug\netcoreapp3.1\Line comparision problem.pdb
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\obj\Debug\netcoreapp3.1\Line comparision problem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\obj\Debug\netcoreapp3.1\Line comparision problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\obj\Debug\netcoreapp3.1\Line comparision problem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\obj\Debug\netcoreapp3.1\Line comparision problem.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\obj\Debug\netcoreapp3.1\Line comparision problem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\obj\Debug\netcoreapp3.1\Line comparision problem.dll
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\obj\Debug\netcoreapp3.1\Line comparision problem.pdb
+C:\Users\Lenovo\Desktop\line comparision\Line comparision problem\Line comparision problem\obj\Debug\netcoreapp3.1\Line comparision problem.genruntimeconfig.cache
